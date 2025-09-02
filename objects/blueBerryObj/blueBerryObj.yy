@@ -1,20 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"marcelo",
+  "%Name":"blueBerryObj",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"marcelo",
+  "name":"blueBerryObj",
   "overriddenProperties":[],
   "parent":{
     "name":"characters",
     "path":"folders/Objects/characters.yy",
   },
   "parentObjectId":{
-    "name":"prot",
-    "path":"objects/prot/prot.yy",
+    "name":"enemy",
+    "path":"objects/enemy/enemy.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"marceloWD",
-    "path":"sprites/marceloWD/marceloWD.yy",
+    "name":"blueBerryWLSpr",
+    "path":"sprites/blueBerryWLSpr/blueBerryWLSpr.yy",
   },
   "spriteMaskId":null,
   "visible":true,

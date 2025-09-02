@@ -1,21 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"marcelo",
+  "%Name":"enemy",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"marcelo",
+  "name":"enemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"characters",
-    "path":"folders/Objects/characters.yy",
+    "name":"etc",
+    "path":"folders/Objects/etc.yy",
   },
-  "parentObjectId":{
-    "name":"prot",
-    "path":"objects/prot/prot.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"marceloWD",
-    "path":"sprites/marceloWD/marceloWD.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -12,7 +12,10 @@
     "name":"characters",
     "path":"folders/Objects/characters.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"prot",
+    "path":"objects/prot/prot.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

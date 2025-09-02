@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"blueBerryFunctions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"blueBerryFunctions",
+  "parent":{
+    "name":"minions",
+    "path":"folders/Scripts/characters/minions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
