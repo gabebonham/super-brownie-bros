@@ -4,10 +4,10 @@ function checkIfProtIsNear(cx, cy, r, px, py){
 
 }
 function checkIfProtAttack(cx, cy, r, px, py){
-
 	var isClose = (point_distance(cx, cy, px, py) < r) 
-	if (isClose && prot.isAttacking){
+	if (isClose && prot.isAttacking && self.canLoseHealth){
 		self.life -= 1
+		self.canLoseHealth = false
 	}
 
 }
