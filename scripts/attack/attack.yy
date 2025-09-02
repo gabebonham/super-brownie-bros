@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"attack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"attack",
+  "parent":{
+    "name":"grote",
+    "path":"folders/Scripts/characters/grote.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

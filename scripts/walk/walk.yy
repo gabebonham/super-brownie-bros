@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"walk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"walk",
+  "parent":{
+    "name":"grote",
+    "path":"folders/Scripts/characters/grote.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
